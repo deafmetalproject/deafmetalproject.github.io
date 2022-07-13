@@ -1,0 +1,22 @@
+#video-container {
+    /*object-fit: fill;*/
+    top: 0;
+    bottom: 0;
+    height: 500px;
+    z-index: -1;
+}
+
+#vid {
+    position:absolute;
+    width: 50%;
+    /*width: 100%;*/
+}
+
+video source {
+}
+
+#slider {
+    position: absolute;
+    left: 0;
+    top: 50%;
+}
